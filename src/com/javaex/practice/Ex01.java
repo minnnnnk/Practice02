@@ -5,7 +5,7 @@ public class Ex01 {
 		int age = 15;
 		
 		//age가 0살 초과이고 18살 미만이면
-		if(0<age && age<18) {
+		if(0<age && age<18) { // 따로따로 써야됨
 			System.out.println("청소년 입니다.");
 		}
 	}
